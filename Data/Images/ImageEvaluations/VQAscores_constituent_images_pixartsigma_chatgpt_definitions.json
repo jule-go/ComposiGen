@@ -1,0 +1,690 @@
+{
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_drama_00.jpg": {
+    "simple": 0.9909446835517883,
+    "definition": 0.9842512011528015
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_horror_00.jpg": {
+    "simple": 0.9909446835517883,
+    "definition": 0.9937293529510498
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_letter_00.jpg": {
+    "simple": 0.6381258964538574,
+    "definition": 0.8933351635932922
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_glove_00.jpg": {
+    "simple": 0.7063395977020264,
+    "definition": 0.7287613153457642
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_game_00.jpg": {
+    "simple": 0.9612193703651428,
+    "definition": 0.9635695815086365
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_eye_00.jpg": {
+    "simple": 0.9588760137557983,
+    "definition": 0.9897375702857971
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_conservation_00.jpg": {
+    "simple": 0.8241850137710571,
+    "definition": 0.9348316192626953
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_critic_00.jpg": {
+    "simple": 0.5787547826766968,
+    "definition": 0.8396194577217102
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_conference_00.jpg": {
+    "simple": 0.9799394607543945,
+    "definition": 0.9675753116607666
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_pain_00.jpg": {
+    "simple": 0.9832894802093506,
+    "definition": 0.972771942615509
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_health_00.jpg": {
+    "simple": 0.5901687741279602,
+    "definition": 0.8241795301437378
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_case_00.jpg": {
+    "simple": 0.4950350224971771,
+    "definition": 0.5415704250335693
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_coffee_00.jpg": {
+    "simple": 0.9909451603889465,
+    "definition": 0.9897364974021912
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_camping_00.jpg": {
+    "simple": 0.9909458756446838,
+    "definition": 0.9950965046882629
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_food_00.jpg": {
+    "simple": 0.9929133653640747,
+    "definition": 0.9884069561958313
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_radio_00.jpg": {
+    "simple": 0.9451619982719421,
+    "definition": 0.9758797287940979
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_sheep_00.jpg": {
+    "simple": 0.9937323927879333,
+    "definition": 0.9940961003303528
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_image_00.jpg": {
+    "simple": 0.7387939691543579,
+    "definition": 0.9588764905929565
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_fruit_00.jpg": {
+    "simple": 0.9937316179275513,
+    "definition": 0.9876848459243774
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_folk_00.jpg": {
+    "simple": 0.8876816630363464,
+    "definition": 0.9744505882263184
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_emergency_00.jpg": {
+    "simple": 0.5787549614906311,
+    "definition": 0.779560923576355
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_propaganda_00.jpg": {
+    "simple": 0.4835677444934845,
+    "definition": 0.7489637732505798
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_dining_00.jpg": {
+    "simple": 0.9744518995285034,
+    "definition": 0.9903397560119629
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_strategy_00.jpg": {
+    "simple": 0.37513482570648193,
+    "definition": 0.5310947895050049
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_web_00.jpg": {
+    "simple": 0.8478593826293945,
+    "definition": 0.9038636684417725
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_identity_00.jpg": {
+    "simple": 0.728756308555603,
+    "definition": 0.7697040438652039
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_dog_00.jpg": {
+    "simple": 0.9897373914718628,
+    "definition": 0.9924596548080444
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_puppy_00.jpg": {
+    "simple": 0.9832942485809326,
+    "definition": 0.9903407096862793
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_surgery_00.jpg": {
+    "simple": 0.9903399348258972,
+    "definition": 0.9876211881637573
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_mood_00.jpg": {
+    "simple": 0.9563028216362,
+    "definition": 0.9384918212890625
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_licensing_00.jpg": {
+    "simple": 0.275528222322464,
+    "definition": 0.21125516295433044
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_culture_00.jpg": {
+    "simple": 0.9786216616630554,
+    "definition": 0.9562910199165344
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_factory_00.jpg": {
+    "simple": 0.98768550157547,
+    "definition": 0.9897367358207703
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_helmet_00.jpg": {
+    "simple": 0.9903417229652405,
+    "definition": 0.9744522571563721
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_library_00.jpg": {
+    "simple": 0.9909461140632629,
+    "definition": 0.9908855557441711
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_rowing_00.jpg": {
+    "simple": 0.9311893582344055,
+    "definition": 0.9868979454040527
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_movie_00.jpg": {
+    "simple": 0.578754723072052,
+    "definition": 0.6953904032707214
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_street_00.jpg": {
+    "simple": 0.9417080879211426,
+    "definition": 0.9799394011497498
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_cake_00.jpg": {
+    "simple": 0.9799385070800781,
+    "definition": 0.9933378100395203
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_tennis_00.jpg": {
+    "simple": 0.9944602251052856,
+    "definition": 0.9937310814857483
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_fraud_00.jpg": {
+    "simple": 0.38403040170669556,
+    "definition": 0.6148771643638611
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_incentive_00.jpg": {
+    "simple": 0.8396189212799072,
+    "definition": 0.9744457602500916
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_safety_00.jpg": {
+    "simple": 0.3840300738811493,
+    "definition": 0.5544062256813049
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_quality_00.jpg": {
+    "simple": 0.9038635492324829,
+    "definition": 0.9140724539756775
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ticket_00.jpg": {
+    "simple": 0.7287625074386597,
+    "definition": 0.7387942671775818
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ballot_00.jpg": {
+    "simple": 0.2112552374601364,
+    "definition": 0.4950350224971771
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_trip_00.jpg": {
+    "simple": 0.19385860860347748,
+    "definition": 0.6953906416893005
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_sheet_00.jpg": {
+    "simple": 0.7980476021766663,
+    "definition": 0.8933348655700684
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_gym_00.jpg": {
+    "simple": 0.98768550157547,
+    "definition": 0.9897373914718628
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_machine_00.jpg": {
+    "simple": 0.9832939505577087,
+    "definition": 0.9832944869995117
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_hill_00.jpg": {
+    "simple": 0.9612204432487488,
+    "definition": 0.7387940883636475
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_agreement_00.jpg": {
+    "simple": 0.8747731447219849,
+    "definition": 0.971118152141571
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_farewell_00.jpg": {
+    "simple": 0.8688133955001831,
+    "definition": 0.9481663107872009
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ear_00.jpg": {
+    "simple": 0.8933315873146057,
+    "definition": 0.8688125014305115
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_pension_00.jpg": {
+    "simple": 0.5310948491096497,
+    "definition": 0.3650161623954773
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_family_00.jpg": {
+    "simple": 0.9964175224304199,
+    "definition": 0.9950861930847168
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_summer_00.jpg": {
+    "simple": 0.9612199664115906,
+    "definition": 0.9449329376220703
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_memory_00.jpg": {
+    "simple": 0.6609576344490051,
+    "definition": 0.8816262483596802
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_album_00.jpg": {
+    "simple": 0.2528393566608429,
+    "definition": 0.3650164306163788
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_convenience_00.jpg": {
+    "simple": 0.9311909675598145,
+    "definition": 0.9451615810394287
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ruling_00.jpg": {
+    "simple": 0.8066642880439758,
+    "definition": 0.8066649436950684
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_gift_00.jpg": {
+    "simple": 0.9038641452789307,
+    "definition": 0.9675760269165039
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_macro_00.jpg": {
+    "simple": 0.9729024171829224,
+    "definition": 0.9832876324653625
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_wedding_00.jpg": {
+    "simple": 0.9956751465797424,
+    "definition": 0.996176540851593
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_shoe_00.jpg": {
+    "simple": 0.9758797287940979,
+    "definition": 0.965453565120697
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_prom_00.jpg": {
+    "simple": 0.9890727996826172,
+    "definition": 0.9897328019142151
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_war_00.jpg": {
+    "simple": 0.9937309622764587,
+    "definition": 0.991972029209137
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_school_00.jpg": {
+    "simple": 0.9384949803352356,
+    "definition": 0.9384951591491699
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_horse_00.jpg": {
+    "simple": 0.99446040391922,
+    "definition": 0.9954018592834473
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_noise_00.jpg": {
+    "simple": 0.38403066992759705,
+    "definition": 0.541570246219635
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_peace_00.jpg": {
+    "simple": 0.6846085786819458,
+    "definition": 0.9384920597076416
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ego_00.jpg": {
+    "simple": 0.6846081018447876,
+    "definition": 0.8747631311416626
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ball_00.jpg": {
+    "simple": 0.9842554330825806,
+    "definition": 0.9890734553337097
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_station_00.jpg": {
+    "simple": 0.6018099188804626,
+    "definition": 0.728762686252594
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_fan_00.jpg": {
+    "simple": 0.9842551350593567,
+    "definition": 0.988409161567688
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_data_00.jpg": {
+    "simple": 0.6148790121078491,
+    "definition": 0.6953864097595215
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_art_00.jpg": {
+    "simple": 0.9842536449432373,
+    "definition": 0.9822058081626892
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_elimination_00.jpg": {
+    "simple": 0.2755284905433655,
+    "definition": 0.5187918543815613
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_selection_00.jpg": {
+    "simple": 0.5653479099273682,
+    "definition": 0.9091750979423523
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_plea_00.jpg": {
+    "simple": 0.41686147451400757,
+    "definition": 0.531094491481781
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_hockey_00.jpg": {
+    "simple": 0.9919743537902832,
+    "definition": 0.9612181186676025
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_pyramid_00.jpg": {
+    "simple": 0.9811359643936157,
+    "definition": 0.9744526147842407
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_way_00.jpg": {
+    "simple": 0.824184775352478,
+    "definition": 0.9758803248405457
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_gangster_00.jpg": {
+    "simple": 0.8241849541664124,
+    "definition": 0.7287626266479492
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_suggestion_00.jpg": {
+    "simple": 0.5653476715087891,
+    "definition": 0.9417065382003784
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_road_00.jpg": {
+    "simple": 0.9271082282066345,
+    "definition": 0.9727885723114014
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_field_00.jpg": {
+    "simple": 0.9563040733337402,
+    "definition": 0.9822149276733398
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_capital_00.jpg": {
+    "simple": 0.6018093824386597,
+    "definition": 0.9842501282691956
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ice_00.jpg": {
+    "simple": 0.9909452199935913,
+    "definition": 0.9633329510688782
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_parking_00.jpg": {
+    "simple": 0.8933337330818176,
+    "definition": 0.9537325501441956
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_equipment_00.jpg": {
+    "simple": 0.9759993553161621,
+    "definition": 0.9758795499801636
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_chamber_00.jpg": {
+    "simple": 0.44897761940956116,
+    "definition": 0.4950353503227234
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_box_00.jpg": {
+    "simple": 0.9654537439346313,
+    "definition": 0.9675775766372681
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_consultation_00.jpg": {
+    "simple": 0.9729065895080566,
+    "definition": 0.9675736427307129
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_barrier_00.jpg": {
+    "simple": 0.8322727084159851,
+    "definition": 0.8066662549972534
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_area_00.jpg": {
+    "simple": 0.9271076321601868,
+    "definition": 0.9537352323532104
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_greeting_00.jpg": {
+    "simple": 0.8153778910636902,
+    "definition": 0.8688130974769592
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_lunch_00.jpg": {
+    "simple": 0.9348363280296326,
+    "definition": 0.9563044905662537
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_hair_00.jpg": {
+    "simple": 0.9230425357818604,
+    "definition": 0.9185453653335571
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_tea_00.jpg": {
+    "simple": 0.9799381494522095,
+    "definition": 0.9799383282661438
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_photography_00.jpg": {
+    "simple": 0.9612195491790771,
+    "definition": 0.9384920597076416
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ceiling_00.jpg": {
+    "simple": 0.9675769805908203,
+    "definition": 0.9897371530532837
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_wine_00.jpg": {
+    "simple": 0.9654526114463806,
+    "definition": 0.9876850843429565
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_potato_00.jpg": {
+    "simple": 0.9897363185882568,
+    "definition": 0.9842551350593567
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_bus_00.jpg": {
+    "simple": 0.6846085786819458,
+    "definition": 0.394676148891449
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_gambling_00.jpg": {
+    "simple": 0.9940956234931946,
+    "definition": 0.9954003095626831
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_blood_00.jpg": {
+    "simple": 0.9230384230613708,
+    "definition": 0.9140499830245972
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_guilt_00.jpg": {
+    "simple": 0.8620520234107971,
+    "definition": 0.9348275661468506
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_language_00.jpg": {
+    "simple": 0.8620531558990479,
+    "definition": 0.9897369742393494
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_baby_00.jpg": {
+    "simple": 0.9822149872779846,
+    "definition": 0.9914909601211548
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_hen_00.jpg": {
+    "simple": 0.43857645988464355,
+    "definition": 0.48356741666793823
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_spirit_00.jpg": {
+    "simple": 0.8478577136993408,
+    "definition": 0.8396155834197998
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_material_00.jpg": {
+    "simple": 0.8933340311050415,
+    "definition": 0.9271081686019897
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_carnival_00.jpg": {
+    "simple": 0.9884083867073059,
+    "definition": 0.9933040738105774
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_entry_00.jpg": {
+    "simple": 0.5544127225875854,
+    "definition": 0.9185465574264526
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_consumer_00.jpg": {
+    "simple": 0.9612197279930115,
+    "definition": 0.9897364974021912
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_independence_00.jpg": {
+    "simple": 0.8985817432403564,
+    "definition": 0.9449137449264526
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_service_00.jpg": {
+    "simple": 0.8066661953926086,
+    "definition": 0.9348335862159729
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_sewing_00.jpg": {
+    "simple": 0.9933371543884277,
+    "definition": 0.9937265515327454
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_scheme_00.jpg": {
+    "simple": 0.6381250619888306,
+    "definition": 0.33495762944221497
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_processing_00.jpg": {
+    "simple": 0.9744512438774109,
+    "definition": 0.9799367785453796
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_tree_00.jpg": {
+    "simple": 0.9744517207145691,
+    "definition": 0.9449328780174255
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_room_00.jpg": {
+    "simple": 0.8396202325820923,
+    "definition": 0.8620533347129822
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_party_00.jpg": {
+    "simple": 0.9884089231491089,
+    "definition": 0.9897364974021912
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_queen_00.jpg": {
+    "simple": 0.9729061126708984,
+    "definition": 0.9509457945823669
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_laboratory_00.jpg": {
+    "simple": 0.9933373332023621,
+    "definition": 0.9933066368103027
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_country_00.jpg": {
+    "simple": 0.7980472445487976,
+    "definition": 0.8396190404891968
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_bank_00.jpg": {
+    "simple": 0.7795610427856445,
+    "definition": 0.9271085858345032
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_tool_00.jpg": {
+    "simple": 0.9773110747337341,
+    "definition": 0.9924596548080444
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_heart_00.jpg": {
+    "simple": 0.9851546287536621,
+    "definition": 0.9633309841156006
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_gala_00.jpg": {
+    "simple": 0.9654538035392761,
+    "definition": 0.9727877378463745
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_protection_00.jpg": {
+    "simple": 0.7174630165100098,
+    "definition": 0.862041711807251
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_hype_00.jpg": {
+    "simple": 0.8066651225090027,
+    "definition": 0.898575484752655
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_closure_00.jpg": {
+    "simple": 0.2450600415468216,
+    "definition": 0.958875298500061
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_concept_00.jpg": {
+    "simple": 0.839619517326355,
+    "definition": 0.9185460209846497
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_word_00.jpg": {
+    "simple": 0.5067741274833679,
+    "definition": 0.554412841796875
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_space_00.jpg": {
+    "simple": 0.9786224961280823,
+    "definition": 0.9851529002189636
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_dinner_00.jpg": {
+    "simple": 0.9537397623062134,
+    "definition": 0.9675766229629517
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_music_00.jpg": {
+    "simple": 0.1878940910100937,
+    "definition": 0.3097853362560272
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_paper_00.jpg": {
+    "simple": 0.9091762900352478,
+    "definition": 0.8985844254493713
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_brain_00.jpg": {
+    "simple": 0.9693489074707031,
+    "definition": 0.9903408288955688
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_water_00.jpg": {
+    "simple": 0.9711244106292725,
+    "definition": 0.9481666684150696
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_construction_00.jpg": {
+    "simple": 0.9959482550621033,
+    "definition": 0.9947929382324219
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_assessment_00.jpg": {
+    "simple": 0.5415701270103455,
+    "definition": 0.7980464696884155
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_corn_00.jpg": {
+    "simple": 0.672679603099823,
+    "definition": 0.30025359988212585
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_tenancy_00.jpg": {
+    "simple": 0.5787548422813416,
+    "definition": 0.6846089363098145
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_privacy_00.jpg": {
+    "simple": 0.8876792788505554,
+    "definition": 0.9091633558273315
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_novelty_00.jpg": {
+    "simple": 0.986897349357605,
+    "definition": 0.9937052726745605
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_steel_00.jpg": {
+    "simple": 0.9744512438774109,
+    "definition": 0.9588759541511536
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_toilet_00.jpg": {
+    "simple": 0.9842549562454224,
+    "definition": 0.9811367392539978
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_confidentiality_00.jpg": {
+    "simple": 0.684608519077301,
+    "definition": 0.9311853051185608
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_cup_00.jpg": {
+    "simple": 0.9729067087173462,
+    "definition": 0.9612202048301697
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_rice_00.jpg": {
+    "simple": 0.8876801133155823,
+    "definition": 0.5653470754623413
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_loan_00.jpg": {
+    "simple": 0.6257826089859009,
+    "definition": 0.7174633741378784
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_loss_00.jpg": {
+    "simple": 0.8985830545425415,
+    "definition": 0.9271060824394226
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_fantasy_00.jpg": {
+    "simple": 0.990341305732727,
+    "definition": 0.9940951466560364
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_bike_00.jpg": {
+    "simple": 0.9884087443351746,
+    "definition": 0.9924596548080444
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_card_00.jpg": {
+    "simple": 0.4489774703979492,
+    "definition": 0.7489644885063171
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_recording_00.jpg": {
+    "simple": 0.3537858724594116,
+    "definition": 0.7174644470214844
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_portrait_00.jpg": {
+    "simple": 0.9744517803192139,
+    "definition": 0.9884066581726074
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_child_00.jpg": {
+    "simple": 0.9811362028121948,
+    "definition": 0.9909461140632629
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_boat_00.jpg": {
+    "simple": 0.986902117729187,
+    "definition": 0.9929143190383911
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_loyalty_00.jpg": {
+    "simple": 0.30025410652160645,
+    "definition": 0.5544130802154541
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_romance_00.jpg": {
+    "simple": 0.9897360801696777,
+    "definition": 0.9868338704109192
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_arcade_00.jpg": {
+    "simple": 0.9876856803894043,
+    "definition": 0.993338406085968
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_day_00.jpg": {
+    "simple": 0.6148785948753357,
+    "definition": 0.6494417190551758
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_office_00.jpg": {
+    "simple": 0.9860591888427734,
+    "definition": 0.9954018592834473
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_studio_00.jpg": {
+    "simple": 0.9851568937301636,
+    "definition": 0.9924288988113403
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_soul_00.jpg": {
+    "simple": 0.8153765797615051,
+    "definition": 0.8322668075561523
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_ballet_00.jpg": {
+    "simple": 0.9758786559104919,
+    "definition": 0.9909433722496033
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_emotion_00.jpg": {
+    "simple": 0.9509451985359192,
+    "definition": 0.9348264932632446
+  },
+  "/path/to/repo/Data/Images/ConstituentImages/pixartsigma/chatgpt_constituent_definitions/chatgpt_sausage_00.jpg": {
+    "simple": 0.7697257995605469,
+    "definition": 0.9271079301834106
+  }
+}
