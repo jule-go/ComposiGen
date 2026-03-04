@@ -8,7 +8,7 @@ For anonymity reasons, Prolific worker-ids are replaced by new ids.
 
 Example for "chamber music":
 
-<img src="./example-question_chambermusic.png" alt="Example question: chamber music" width="300" height="200">
+<img src="./example-question_chambermusic.jpg" alt="Example question: chamber music" width="300" height="300">
 
 ## Participant criteria
 * 1st language and earliest language in life: English
